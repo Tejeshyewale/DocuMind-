@@ -4,7 +4,7 @@ Upload one or more PDFs, ask questions in plain language, and get answers ground
 in the documents themselves — with exact source citations (`filename.pdf, page X`)
 instead of a generic LLM guess.
 
-> 🔗 **Live demo:** _add your deployed Streamlit Cloud link here once deployed_
+> 🔗 **Live demo:** https://tejesh-rag-assistant417.streamlit.app/
 
 **Stack:** Python · LangChain · Groq (Llama 3.3) · Local HuggingFace Embeddings · FAISS · Streamlit
 
