@@ -1,5 +1,3 @@
-
-```markdown
 # DocuMind — Multi-Document RAG Q&A
 
 Upload one or more PDFs, ask questions in plain language, and get answers grounded
@@ -111,5 +109,3 @@ DocuMind/
   info needed anywhere in this project.
 - Embeddings run locally via `sentence-transformers`, so there's no per-query cost or
   external API call for that step.
-```
-
