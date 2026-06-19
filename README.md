@@ -108,4 +108,4 @@ DocuMind/
 - Groq currently serves Llama 3.3 70B for free with generous rate limits — no payment
   info needed anywhere in this project.
 - Embeddings run locally via `sentence-transformers`, so there's no per-query cost or
-  external API call for that step.
+  external API call for that step...!!
